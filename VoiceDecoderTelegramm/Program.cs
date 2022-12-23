@@ -54,7 +54,7 @@ public class Program
         
         return new AppSettings()
                 {
-                    DownloadsFolder = "C:\\Users\\Stank\\Downloads",
+                    DownloadsFolder = "C:\\Users\\Stank\\source\\repos\\VoiceDecoderTelegramm",
                     BotToken = "5665630812:AAFBDNgaTccs529KntBZ7q_v2AQfgEwl2ok",
                     AudioFileName = "audio",
                     InputAudioFormat = "ogg",
