@@ -8,6 +8,7 @@ using VoiceDecoderTelegramm.Configuration;
 using VoiceDecoderTelegramm.Controllers;
 using VoiceDecoderTelegramm.Services;
 using VoiceTexterBot;
+using VoiceTexterBot.Controllers;
 using VoiceTexterBot.Services;
 
 public class Program
